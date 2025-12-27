@@ -1,6 +1,7 @@
 # Ignore everything
 *
 
-# Except README.md
+# Except documentation files
 !README.md
+!NEXT-GEN-PROMPTS.md
 !.gitignore
