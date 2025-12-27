@@ -1,0 +1,149 @@
+=== Screenshot (1883).png ===
+Use Case: 1 - HISTORICAL EVENT TIME MACHINE
+
+Recreate a historically accurate cinematic scene based on this data:
+Location: [Paste GPS coordinates]
+Date: [DD/MM/YYYY]
+Time: [Approximate time]
+
+=== Screenshot (1884).png ===
+Use Case: 2 - MINIATURE DIORAMA WORLDS
+
+Create a hyper-realistic miniature 3D diorama of [insert place/object].
+Include tiny environmental details, realistic lighting, depth of layers beneath the surface, handcrafted model appearance, museum exhibit quality.
+
+=== Screenshot (1885).png ===
+MINIATURE DIORAMA WORLDS - PROMPT
+
+Create a hyper-realistic miniature 3D diorama of Machu Picchu.
+Show tiny stone temples, terraces, stairways, miniature tourists, fog rolling between the mountains, sunrise lighting, moss on rocks, tiny llamas, realistic shadows, handcrafted museum-model appearance, visible soil layers beneath the ground, ultra-detailed textures, cinematic depth of field.
+
+=== Screenshot (1886).png ===
+MINIATURE DIORAMA WORLDS - PROMPT (duplicate of 1885)
+
+Create a hyper-realistic miniature 3D diorama of Machu Picchu.
+Show tiny stone temples, terraces, stairways, miniature tourists, fog rolling between the mountains, sunrise lighting, moss on rocks, tiny llamas, realistic shadows, handcrafted museum-model appearance, visible soil layers beneath the ground, ultra-detailed textures, cinematic depth of field.
+
+=== Screenshot (1887).png ===
+Multi-Angle Product Photography
+
+Using the uploaded image of the DS Aura perfume bottle, generate a professional luxury product photography set.
+Include:
+- Front hero shot on a soft cream studio background
+- 45-degree angled shot with subtle reflection on a glossy surface
+- top-down flat lay showing the gold cap and glass edges
+- tight macro close-up of the logo and glass texture
+Lighting: soft diffused studio softbox lighting with warm highlights
+Shadows: clean natural shadow beneath the bottle
+Style: high-end cosmetics advertising look
+Quality: ultra-sharp 4K commercial photography realism
+
+=== Screenshot (1888).png ===
+EXPLODED PRODUCT ENGINEERING VIEW
+
+Using the uploaded DSLR camera image, create an exploded flat-lay technical engineering breakdown of the camera.
+Separate all major internal components including:
+- lens elements and glass groups
+- image sensor
+- mirror box and shutter mechanism
+- main circuit board and flex cables
+- battery pack
+- control buttons and dials
+- outer camera body shell
+Arrange all components in correct assembly order on a clean light-gray background.
+Add thin white labels for each part with small leader lines.
+Style: professional instruction-manual schematic
+Quality: ultra-sharp 4K technical realism
+
+=== Screenshot (1889).png ===
+Emoji & Reaction Pack
+
+Using the uploaded face photo, create a complete emoji reaction pack.
+Generate the following expressions:
+- big smile with teeth visible
+- laughing with closed eyes
+- shocked with wide open eyes and mouth
+- angry with furrowed eyebrows
+- sad with visible tears
+- confident neutral expression
+Style: clean modern emoji illustration
+Lighting: soft studio lighting
+Consistency: preserve exact facial identity and proportions
+Background: transparent
+Quality: ultra-sharp 4K, sticker-ready
+
+=== Screenshot (1890).png ===
+HOUSE X-RAY CUTAWAY
+
+Create a high-detail architectural X-ray cutaway view of a modern two-story luxury house.
+Reveal:
+- living room with furniture
+- kitchen with appliances
+- bedrooms with interior decor
+- bathrooms with fixtures
+- stairway structure
+- plumbing and electrical pathways inside the walls
+Style: realistic architectural visualization
+Lighting: natural daylight entering through windows
+Angle: 3D isometric cutaway perspective
+Quality: ultra-detailed 4K technical realism
+
+=== Screenshot (1891).png ===
+PHOTO -> VINTAGE ARTWORK & RETRO POSTER TRANSFORMATION
+
+Convert this image into a 1970s vintage travel movie poster of Paris.
+Style: Hand-painted illustration look, warm faded color palette, subtle film grain, bold retro typography at the bottom that reads "PARIS - 1975".
+Details: Soft sunset lighting, slightly exaggerated architecture, stylized clouds, aged paper texture, cinematic composition.
+Quality: ultra-high resolution poster art.
+
+=== Screenshot (1892).png ===
+AGE PROGRESSION & DE-AGING
+
+Create an age progression of this person.
+Generate versions at: [10 / 20 / 30 / 50] years older.
+Preserve identity, adjust skin texture, facial structure, hair aging realistically.
+
+=== Screenshot (1893).png ===
+ALTERNATE REALITY
+
+Create an alternate reality version of ancient Rome as a futuristic mega-city.
+Blend: Roman stone architecture with glass skyscrapers, neon signage, flying vehicles above the Colosseum, glowing street networks.
+Lighting: Cinematic night lighting with blue and purple highlights.
+Quality: ultra-detailed 4K
+
+=== Screenshot (1894).png ===
+ALTERNATE REALITY - Infographic
+
+Create a one-page infographic summary of the following content:
+https://businessmagnete.com/how-to-use-nano-banana-pro-like-an-expert/
+Use clean layout, bold section headers, icons, charts where helpful, modern educational design.
+
+=== Screenshot (1895).png ===
+Use Case: 11 - VISUAL REASONING
+
+"Analyze this image of a room and generate a 'before' image that shows what the room might have looked like during construction, showing the framing and unfinished drywall."
+
+=== Screenshot (1896).png ===
+Luxury Perfume Commercial Story (9-part series)
+
+Create an addictingly intriguing 9-part story with 9 images featuring a woman and man in an award-winning luxury perfume commercial. The story should have emotional highs and lows, ending on an elegant shot of the woman with the logo. The identity of the woman and man must stay consistent throughout but they can and should be seen from different angles and distances. Please generate images one at a time. Make sure every image is in a 16:9 landscape style.
+
+=== Screenshot (1897).png ===
+[Result image - no prompt visible]
+
+=== Screenshot (1898).png ===
+Use Case: 13 - 360° & ALTERNATE PERSPECTIVE
+
+Generate a 360-degree alternate perspective view of this scene, showing front, side, rear, and overhead angles while keeping lighting and subject position consistent.
+
+=== Screenshot (1899).png ===
+Use Case: 14 - CHAPTER -> STORY ILLUSTRATION PANELS
+
+Create 4 cinematic illustration panels for the following story scene:
+[Paste book chapter excerpt here]
+Use consistent characters, emotional lighting, and cinematic framing.
+
+=== Screenshot (1900).png ===
+Use Case: 15 - GROUNDING WITH GOOGLE SEARCH
+
+Generate an infographic of the best times to visit the Eiffel Tower, Paris France in 2025 based on current travel trends

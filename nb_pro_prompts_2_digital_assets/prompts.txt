@@ -1,0 +1,65 @@
+=== Screenshot (1873).png ===
+Use Search Grounding to fetch today's real-time and accurate weather data for London, UK.
+Present a clear, 45° top-down isometric miniature 3D cartoon scene of London, featuring Big Ben, Tower Bridge, London Eye, and riverfront buildings. Use soft, refined textures with realistic PBR materials and gentle lighting. Integrate the current live weather condition into the city environment.
+At the top-center, place the title "LONDON", real-time weather icon, today's date, and current temperature from Search Grounding.
+Square 1080x1080.
+
+=== Screenshot (1874).png ===
+Present a clear, 45° top-down view of an isometric miniature 3D cartoon scene, highlighting iconic landmarks centered in the composition to showcase precise and delicate modeling.
+A close-up of a porcelain coffee cup on a wooden table filled with cappuccino foam, subtly floating a detailed city of Tokyo occupying most of the composition. Prominently displayed at the scene's center are the city's most iconic landmarks, vividly detailed and illuminated softly, including Tokyo Tower, Skytree, Shibuya Crossing, and dense neon-lit buildings.
+Miniature streets feature realistic, tiny vehicles moving seamlessly.
+With cinematic-quality lighting and depth-of-field blurring, the image creates a magical, dreamlike atmosphere. Exceptionally detailed and highly photorealistic, the scene achieves an 8K cinematic finish.
+Aspect ratio: 16:9
+
+=== Screenshot (1875).png ===
+Deconstruct the building shown in the reference image. The structure should be in a semi-deconstructed phase, showing its inner framework, foundation, stairs, and scaffolding. Remove all glass, exterior walls, paint, and interior finishes, keeping the skeleton, lighting direction, and perspective as the original.
+
+=== Screenshot (1876).png ===
+A highly detailed, photorealistic extreme low-angle ground-level photograph looking up, showing a colossal businesswoman in a formal suit positioned in downtown New York City. The giant is crouched down and pinching the top of a skyscraper between her fingers as if it were a toy.
+To establish the immense scale, use dramatic foreshortening with tiny cars and people far below at street level.
+The lighting is clear sunny afternoon with sharp shadows.
+
+=== Screenshot (1877).png ===
+"Create a high-resolution 3D render of the [BRAND NAME] logo styled as a plush, fur-covered object. The entire surface should be coated in fine, hyperrealistic hair, with soft lighting that adds depth and shadow. Place the object floating at the center of a dark, clean background. Use dramatic backlighting to enhance contrast and make the shape stand out. Preserve the brand's original colors. The overall aesthetic should feel tactile, surreal, cozy, and modern. Format: 1080x1080"
+
+=== Screenshot (1878).png ===
+Make a 3x3 grid of different coat hairstyles
+
+=== Screenshot (1879).png ===
+A bustling morning cafe scene photographed in realistic detail. At one table is an anime man with blue hair, while nearby one customer exists as a pencil sketch and another appears as a stop-motion clay figure, blending multiple artistic styles into one seamless scene. 16:9
+
+=== Screenshot (1880).png ===
+Create a 3x3 grid of hyperreal, luxury perfume marketing still life shots using the perfume product as the central subject.
+Each cell must feature a different fragrance-inspired visual concept:
+- Elegant hero bottle shot
+- Fragrance mist macro in motion
+- Liquid glass swirl wrapping the bottle
+- Crystal reflection and light refraction
+- Sculptural floral composition
+- Floating aromatic particles and vapor
+- Luxury fabric and silk texture aesthetic
+- Ingredient macro (flowers, citrus, woods, spices)
+- Surreal fragrance fusion still life
+The product must remain accurate in shape, label, cap design, and color across all nine frames with no visual distortion.
+Lighting: clean, soft studio lighting with premium highlights and controlled reflections.
+Overall style: ultra-premium luxury beauty campaign aesthetic, suitable for high-end perfume advertising, editorial spreads, and brand presentations.
+
+=== Screenshot (1881).png ===
+Using the uploaded image as the exact scene, camera, and composition reference, recreate the same visual illusion where a hand is pouring my own branded drink from a glass bottle into a glass held by a person inside a smartphone screen.
+Replace the original bottle with my uploaded drink while keeping:
+- The same pouring angle
+- The same realistic liquid flow
+- The same smartphone position, desk, window light, and background setup
+The person inside the phone should remain smiling naturally and holding the glass inside the screen, with realistic depth and screen edge reflections so it looks like the drink is actually crossing from the real world into the digital screen.
+The liquid should match my drink's color and transparency, with:
+- Realistic splash physics
+- Natural highlights
+- Tiny bubbles and refraction inside the stream
+Lighting must stay soft natural daylight from the window, with warm indoor tones and subtle shadows on the wooden desk.
+Style: ultra-photorealistic advertising composite, hyper-real realism, shallow depth of field, commercial product photography quality, 8K detail.
+Important:
+- Use the uploaded image strictly for pose, framing, lighting, and perspective matching.
+- Only change the drink branding, label text, and liquid color to match my custom product.
+
+=== Screenshot (1882).png ===
+A 3D chibi-style miniature concept store for [Brand Name], designed with an exterior inspired by the brand's most iconic product, shaped like a giant [core product]. The store features two floors with large glass windows, revealing a cozy, finely detailed interior with [brand color]-themed decor, warm ambient lighting, and busy staff dressed in matching brand uniforms. Adorable tiny figures walk, sit, and gather along the street, surrounded by benches, street lamps, and potted plants, forming a charming urban vignette. Rendered in Cinema 4D, blind-box toy aesthetic, ultra-detailed miniature realism, soft afternoon lighting.

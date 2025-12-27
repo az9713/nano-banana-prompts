@@ -1,0 +1,59 @@
+=== Screenshot (1860).png ===
+A horizontal split-screen cinematic shot of [Scene], seamlessly blending two different eras: [Era_A] on the left and [Era_B] on the right (default: about 100 years ago vs. present day).
+On the left side ([Era_A]): show era-appropriate architecture, interior or environment design, materials, vehicles, and props that clearly belong to that historical period. People wear authentic clothing from [Era_A], including hairstyles, accessories, and typical items in their hands (such as books, umbrellas, instruments, letters, newspapers, etc.). The overall mood feels nostalgic and historically accurate.
+On the right side ([Era_B]): show the same [Scene] in the modern era, with updated architecture or renovated structures, contemporary materials (glass, steel, LED screens, modern furniture, modern vehicles or equipment, and current technology (smartphones, laptops, cameras, etc.). People wear contemporary fashion that matches today's style in this setting.
+In the center: the two eras merge and overlap organically, without a hard dividing line. Elements from [Era_A] and [Era_B] visually interact: people from different times look at each other, walk through each other's space, or seem surprised by the other era's technology and objects. Architecture and environment smoothly morph from old to new (for example, stone gates turning into modern campus gates, classical concert hall decor fading into a futuristic stage, old street shops transforming into neon-lit storefronts).
+Make sure the scene is not just a simple left/right comparison but a dynamic time-travel interaction where buildings, clothing, props, and human gestures clearly emphasize the contrast and fusion between the two eras. Photorealistic, 8k resolution, cinematic lighting, wide angle, highly detailed textures, rich sense of time-travel storytelling.
+
+=== Screenshot (1861).png ===
+A hyper-realistic 3D photo concept showing a hand holding a square polaroid photo labeled "[ELEMENT]".
+Inside the photo, there's a close-up of [ELEMENT], and it flows seamlessly out of the photo frame into the real world, naturally interacting with the surface below (e.g. table, grass, tile, pavement).
+The text "[ELEMENT]" appears printed cleanly on the white border of the photo. Realistic cinematic lighting, ultra-detailed textures, artistic composition, 16:9 format.
+
+=== Screenshot (1863).png ===
+Recreate a top-down food art scene depicting the country of [Country_Name], sculpted entirely from traditional dishes and ingredients native to the region.
+Include iconic landmarks made from food, terrain features shaped by staple ingredients, and playful elements like edible vehicles, buildings, or people.
+Style: extreme food art on a dark slate board, macro photography, dramatic overhead lighting, rich textures, moody gourmet aesthetic.
+
+=== Screenshot (1864).png ===
+Create an ultra-high-definition, hyper-realistic digital poster featuring a miniature island shaped like Beijing floating above white clouds in the sky.
+Seamlessly integrate Beijing's unique iconic landmarks (like the Forbidden City, Temple of Heaven), natural landscapes (mountains, forested zones), and cultural motifs like dragon sculptures or red lanterns.
+Carve the word "BEIJING" into the terrain using colossal white 3D letters.
+Add realism with Chinese cranes flying above, warm golden-hour sunlight, and cinematic lighting with light shafts through clouds.
+Ultra-high quality, 4K+ resolution, 16:9 aspect ratio.
+
+=== Screenshot (1865).png ===
+Create a glossy commercial photo featuring a female model who closely matches the reference subject in appearance and expression.
+She should sit sideways on a large [Product_Name] — for example, a [Color] [Product_Type] — with her [Left/Right] bent and resting atop the product, and the other extended slightly forward.
+Her torso leans slightly back, supported by one arm behind her on the product, while she holds a second [Product_Name] in the opposite hand, positioned casually near her knee.
+Camera framing: three-quarter body shot, centered composition, studio-style straight-on angle.
+Keep a solid [Backdrop_Color] backdrop, use glossy ad lighting, vibrant tones, and a cinematic, premium beverage/product commercial feel.
+
+=== Screenshot (1866).png ===
+A stunning night shot shows the person attached in the uploaded reference image (keep the face 100% accurate) standing on snowy ground under bright green northern lights. They smile while looking at the sky. Aspect ratio 16:9
+
+=== Screenshot (1867).png ===
+A cinematic 3x3 grid presenting multiple camera angles of the same [subject_description] in the same outdoor environment. [Scene_Description]
+Each frame shows a distinct shot: extreme close-up, medium shot, over-the-shoulder, wide shot, high-angle top-down, low-angle, profile, three-quarter rear view, and full back view.
+Lighting style: [Lighting_Description]
+Ensure consistent subject appearance across all frames, with identical outfit, lighting direction, and pose variation.
+Cinematic framing, shallow depth of field, film-still aesthetic, realistic camera angles, professional cinematography reference sheet. Ultra-realistic, sharp, 8K photography look.
+
+=== Screenshot (1868).png ===
+"Present a clear, 45° top-down isometric miniature 3D cartoon scene of the iconic scene [SCENE NAME] from [MOVIE/SHOW], with soft refined textures, realistic PBR materials, and gentle lifelike lighting. Create a small raised diorama-style base that includes the most recognizable elements of this scene, along with tiny stylized characters if needed (no facial details). Use a clean solid [BACKGROUND COLOR] background. At the top-center, display [MOVIE/SHOW] in large bold text, directly beneath it show [SCENE NAME] in medium text, and place the official logo associated with [MOVIE/SHOW] below the subtext. All text must automatically match the background contrast (white or black). Composition: perfectly centered layout, square 1080x1080, ultra-clean, high-clarity diorama aesthetic."
+
+=== Screenshot (1869).png ===
+A dramatic sky photo where swirling storm clouds naturally form the unmistakable shape of a [SUBJECT].
+The illusion should be a found shape: at first it appears to be just storm clouds, but then the silhouette of the [SUBJECT] becomes clearly visible as part of the natural structure.
+Include realistic sunlight piercing through the clouds, subtle volumetric light rays, and deep contrast.
+No magical glow or fantasy lighting — only photorealistic cloud behavior forming the subject.
+High resolution, 4K+ cinematic photography style, awe-inspiring mood.
+
+=== Screenshot (1870).png ===
+Creative botanical art collage depicting [Scene/Activity].
+The image is constructed entirely from exquisite cut natural leaves, flower petals, plant stems, and wild berries.
+The silhouettes of figures and objects should be formed by the intricate arrangement of these plant elements, clearly shaped yet fully organic.
+All plant surfaces feature a slightly wet, glossy texture adorned with crystal-clear morning dew droplets.
+Use rich, vibrant colors, layered composition, and macro-photography level detail.
+The background should be a soft, natural bokeh that harmonizes with the scene's mood.
+Macro photography style, 8K resolution, natural organic masterpiece. Format: 16:9.

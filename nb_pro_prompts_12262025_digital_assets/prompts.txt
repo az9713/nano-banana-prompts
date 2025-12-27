@@ -1,0 +1,84 @@
+=== Screenshot (1901).png ===
+Generate an infographic of the best times to visit the Eiffel Tower, Paris France in 2025 based on current travel trends.
+16:9 Aspect Ratio
+
+=== Screenshot (1902).png ===
+A macro photoreal diorama built directly onto the reverse side of a copper [COIN TYPE]. The [LANDMARK OR STRUCTURE] is extruded into 3D miniature architecture, with tiny scale-model people interacting around it. Surround the scene with thematic micro-details (trees, signs, decor) flanking the rim.
+Use warm [LIGHTING TYPE] to enhance the metallic surface, tilt-shift photography, and include a large fingerprint or fingertip edge for real-world scale. Studio blurred background.
+Ultra-high detail, cinematic miniature realism.
+
+=== Screenshot (1903).png ===
+A high-end studio portrait of one smiling person holding a [BRAND] [DRINK TYPE] aluminum can close to the camera, with both the can and the person's face in the foreground. Shot using an ultra-wide fisheye lens for a playful, energetic, immersive look.
+The model wears a glossy [COLOR] puffer jacket inspired by [BRAND] branding, layered over a [SHIRT COLOR] shirt.
+Background in a [GRADIENT COLOR] gradient palette, perfectly matched to [BRAND] tones, with smooth modern transitions.
+Diffused cinematic studio lighting, juicy specular highlights on the can, glossy reflections on the jacket, soft shadows for dimensionality.
+Slightly desaturated yet fresh editorial style, minimal clean soda campaign composition.
+The face must match the uploaded reference image exactly — realistic skin tone, accurate structure, no facial alteration.
+Ultra-sharp focus, 8K photorealism, professional beverage advertisement quality.
+
+=== Screenshot (1904).png ===
+Inspired by leaf-cutout art, depict [city / country / landmark / environment] carved into a single complete [leaf type].
+Architectural forms, terrain, and symbolic elements emerge through organic hollow cutouts, seamlessly connected by natural vein structures.
+The leaf surface glistens with dew under soft sunlight, creating subtle depth and contrast.
+Background remains a softly blurred natural setting with harmonious bokeh.
+Cinematic macro perspective, botanical realism, ultra-detailed.
+
+=== Screenshot (1905).png ===
+Generate a hyper-realistic digital illustration of a cake meticulously stylized to resemble a [LOGO] resting on a pristine white table.
+Show it partially bitten to reveal multiple delicious layers (sponge, frosting, crumbs) and shatter the illusion.
+Capture the moment of surprise with intricate details in the bite mark.
+Use a slightly overhead angle to emphasize the contrast between the realistic outer shell and the cake interior.
+Illuminate the scene with soft, diffused lighting to enhance textures and cast subtle shadows for depth.
+Keep the background minimal and bright to focus on the deceptive dessert.
+Employ a vibrant, playful palette for the cake layers against the object-mimicking exterior.
+Render in a photorealistic style with whimsical undertones, making the reveal both visually convincing and appetizing.
+
+=== Screenshot (1906).png ===
+Present a clear, 45° top-down isometric miniature 3D cartoon scene of the historical event "[EVENT]", featuring its most iconic moment: [DESCRIPTION].
+Use soft refined textures, realistic PBR materials, and gentle lifelike lighting.
+Create a small raised diorama-style base that includes the most recognizable elements of this moment, along with tiny stylized characters if needed (no facial details).
+Use a clean solid [BACKGROUND COLOR] background.
+At the top-center, display "[EVENT]" in large bold text, directly beneath it show a short descriptive subtitle in medium text, and place a small official symbol or simplified icon below the subtitle.
+All text must automatically match the background contrast (white or black).
+Composition: perfectly centered layout, square 1080x1080, ultra-clean, high-clarity diorama aesthetic.
+
+=== Screenshot (1907).png ===
+Create a whimsical 1080x1080 fantasy castle crafted entirely from Fanta bottle labels and orange plastic.
+The castle should feature soda-bottle spires, curved towers wrapped in swirling label ribbons, and stained-glass windows formed by translucent Fanta orange.
+Include playful citrus-colored dragons and hot-air soda bubbles floating around.
+Set the castle in a dreamscape of orange mist, fizzy skies, and swirling clouds.
+Use juicy fantasy lighting, orange-green brand palette, and glossy cartoon detail.
+Preserve the iconic Fanta logo and bottle shapes exactly as is — no modifications.
+Magical atmosphere, hyper-detailed, branded fantasy poster style.
+
+=== Screenshot (1908).png ===
+Create a hyper-realistic photograph of a transparent glass bottle containing a miniature 3D scene of [SCENE DESCRIPTION].
+Inside the bottle, render [miniature environment elements], including [characters, structures, or natural features], arranged with fine handcrafted realism.
+Above the scene, include a [sky description: sunny, cloudy, starry, etc.], with natural light effects such as sun flare or light scattering.
+The outside of the bottle should feature clear water droplets and soft reflections.
+The bottle rests on a [surface type: wooden table, marble, stone], with realistic wetness and soft lighting glinting off the glass.
+Use cinematic lighting, crisp textures, and immersive environmental effects.
+Ultra-detailed, photorealistic style. Aspect ratio: --ar 3:2.
+
+=== Screenshot (1909).png ===
+Create a hyper-realistic 3D render of a transparent [OBJECT] filled with delicate spring flowers such as cherry blossoms, irises, wild daisies, and other natural elements.
+Set the object against a [BACKGROUND COLOR] minimal backdrop, using soft lighting and gentle reflections to highlight the floral interior and pristine surface.
+The composition should be elegant, poetic, and surreal, focusing on color harmony, realistic refraction, and botanical clarity.
+Render in cinematic macro quality, with ultra-detailed plant textures and a clean high-end visual aesthetic.
+
+=== Screenshot (1910).png ===
+A miniature figurine of [ATHLETE NAME] captured during their most iconic moment: [DESCRIPTION].
+The pose should be dynamic and mid-action, with simplified facial features (no realism).
+Style the figurine in premium collectible quality, inspired by sports action figures and statues.
+Set against a clean neutral studio background with soft diffused lighting, subtle shadows, and high-contrast detail.
+Emphasize movement, gear details, and visual storytelling through the athlete's posture and accessories.
+Photorealistic toy-sculpt aesthetic, high clarity, perfect for collector packaging or promo visuals.
+
+=== Screenshot (1911).png ===
+Present a clear, directly top-down photograph of [CITY] landmarks represented as detailed 3D fridge magnets, neatly arranged in a grid-like knolling layout.
+The layout must be clean and organized — objects aligned in straight lines with right angles.
+At the top-center, place the city name magnet as the title, and beside it a yellow handwritten sticky note showing [TODAY'S TEMPERATURE + WEATHER CONDITIONS], e.g., "23°C, Light Rain."
+Scatter realistic weather-appropriate accessories throughout the scene (e.g., sunglasses, gloves, umbrella, iced drink) to reflect the climate.
+Every object must be unique — no duplicates.
+Scene is brightly lit, evenly exposed, and styled for social media or magazine print.
+High-resolution, photorealistic, clean flatlay style.
